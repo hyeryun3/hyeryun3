@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&size=32&color=D39BF7&center=true&vCenter=true&height=250&lines=Hi+there%F0%9F%91%8B+I'm+hyeryun)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&size=32&color=D39BF7&center=true&vCenter=true&height=150&lines=Hi+there%F0%9F%91%8B+I'm+hyeryun)](https://git.io/typing-svg)
 
 
 <!--
