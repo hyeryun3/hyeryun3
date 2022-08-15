@@ -25,6 +25,4 @@ Here are some ideas to get you started:
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeryun3&layout=compact&theme=material-palenight&bg_color=20232a&hide_border=true&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&fontSize=1" width=48.5% />
 
-<img src="https://activity-graph.herokuapp.com/graph?username=hyeryun3&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
-
 </div>
